@@ -1,5 +1,8 @@
 ### Hi there 👋
+<p style='display: hidden'>
 ![Visitor Count](https://profile-counter.glitch.me/BryantDesigns/count.svg)
+</p>
+
 <!--
 **BryantDesigns/BryantDesigns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
