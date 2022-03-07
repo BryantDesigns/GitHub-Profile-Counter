@@ -1,7 +1,7 @@
 ### Hi there 👋
-<p style='visibility: hidden'>
+
 ![Visitor Count](https://profile-counter.glitch.me/BryantDesigns/count.svg)
-</p>
+<img src='https://profile-counter.glitch.me/BryantDesigns/count.svg' alt='count views' style='visibility: hidden '/>
 
 <!--
 **BryantDesigns/BryantDesigns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
