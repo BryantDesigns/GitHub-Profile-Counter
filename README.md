@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p style='display: hidden'>
+<p style='display: none'>
 ![Visitor Count](https://profile-counter.glitch.me/BryantDesigns/count.svg)
 </p>
 
