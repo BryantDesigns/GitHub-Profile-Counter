@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Visitor Count](https://profile-counter.glitch.me/BryantDesigns/count.svg)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/BryantDesigns/count.svg) -->
 <img src='https://profile-counter.glitch.me/BryantDesigns/count.svg' alt='count views' style='visibility: hidden '/>
 
 <!--
